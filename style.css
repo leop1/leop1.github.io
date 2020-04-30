@@ -27,3 +27,20 @@ div.full-page {
     position:absolute;
     transform:translate(-50%,-50%);
 }
+
+.panels {
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:30px;
+    padding-right: 30px;
+}
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+p span {
+    display:block;
+    text-align: center;
+}
