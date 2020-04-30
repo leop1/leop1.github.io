@@ -15,3 +15,8 @@ div.full-page {
     height:100vh;
     overflow:hidden;
 }
+
+#landing-page {
+    color: white;
+    font: size 40px;
+}
