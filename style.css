@@ -19,4 +19,11 @@ div.full-page {
 #landing-page {
     color: white;
     font: size 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+    top:50%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%,-50%);
 }
