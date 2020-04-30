@@ -44,3 +44,12 @@ p span {
     display:block;
     text-align: center;
 }
+
+header {
+    position:fixed;
+    width: 100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    overflow:hidden;
+    z-index:1;
+}
