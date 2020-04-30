@@ -53,3 +53,18 @@ header {
     overflow:hidden;
     z-index:1;
 }
+
+nav {
+    text-align:right;
+    padding-top:5px;
+    padding-bottom: 5px;
+
+}
+
+nav a {
+    color: rgb(182, 18, 18);
+    margin-left:15px;
+    margin-right:15px;
+    text-decoration:none;
+    font-size:18px;
+}
