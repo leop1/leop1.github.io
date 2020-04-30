@@ -62,7 +62,23 @@ nav {
 }
 
 nav a {
-    color: rgb(182, 18, 18);
+    color: blue;
+    margin-left:15px;
+    margin-right:15px;
+    text-decoration:none;
+    font-size:18px;
+}
+
+nav b {
+    color: white;
+    margin-left:15px;
+    margin-right:15px;
+    text-decoration:none;
+    font-size:18px;
+}
+
+nav c {
+    color: red;
     margin-left:15px;
     margin-right:15px;
     text-decoration:none;
